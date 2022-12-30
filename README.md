@@ -67,7 +67,7 @@
   - Diamond problem and solution
 
 //future topics
-
+- Anonymous class and inner classes
 - Immutable class and String, String Pool, Wrapper classes.
 - String, StringBuilder and StringBuffer
 - Enum and their usage
