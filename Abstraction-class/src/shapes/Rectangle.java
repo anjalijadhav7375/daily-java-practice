@@ -9,7 +9,6 @@ public class Rectangle extends Shape {
         this.length=length;
         this.breath=breath;
     }
-
     @Override
     public void calculateArea() {
         area = this.length*this.breath;
