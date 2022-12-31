@@ -4,11 +4,11 @@ import shapes.Rectangle;
 
 public class Main {
     public static void main(String[] args) {
-        Shape circle = new Circle();
-        Shape rectangle = new Rectangle();
-        circle.calculateArea(10.5f , 10.5f);
+        Shape circle = new Circle(10.0f);
+        Shape rectangle = new Rectangle(10.0f,20.0f);
+        circle.calculateArea();
         circle.displayArea();
-        rectangle.calculateArea(20.5f, 15.5f);
+        rectangle.calculateArea();
         rectangle.displayArea();
     }
 }

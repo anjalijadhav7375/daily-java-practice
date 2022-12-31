@@ -5,17 +5,18 @@ import feature.Shape;
 
 
 public class Circle extends Shape {
+    float radius;
 
-    public Circle() {
-        super();
+    public Circle(float radius) {
+        this.radius=radius;
     }
     public void calArea(float radius){
-        calculateArea(radius,radius);
+        this.radius=radius;
     }
 
     @Override
-    public void calculateArea(float x, float y) {
-
+    public void calculateArea(){
+      area=PI*this.radius*this.radius;
     }
 }
 

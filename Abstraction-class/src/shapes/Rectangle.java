@@ -3,12 +3,15 @@ package shapes;
 import feature.Shape;
 
 public class Rectangle extends Shape {
-    public Rectangle() {
-        super();
+    float length;
+    float breath;
+    public Rectangle(float length,float breath) {
+        this.length=length;
+        this.breath=breath;
     }
 
     @Override
-    public void calculateArea(float x, float y) {
-        area = x*y;
+    public void calculateArea() {
+        area = this.length*this.breath;
     }
 }
