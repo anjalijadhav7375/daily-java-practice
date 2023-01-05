@@ -8,7 +8,7 @@ public final class Employee {
         this.name = name;
         this.salary = salary;
         this.id = id;
-        this.address = new Address(address.flatNum,address.lane1,address.lane2,address.city,address.postCode);
+        this.address = new Address(address.flatNum,address.lane1,address.lane2,address.city,address.postCode);//deep clone
     }
 
     public String getName() {
@@ -24,7 +24,7 @@ public final class Employee {
     }
 
     public Address getAddress() {
-        return new Address(address.flatNum,address.lane1,address.lane2,address.city,address.postCode);
+        return new Address(address.flatNum,address.lane1,address.lane2,address.city,address.postCode);//deep clone
     }
 
     @Override

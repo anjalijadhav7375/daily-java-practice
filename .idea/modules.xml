@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Abstraction/Abstraction.iml" filepath="$PROJECT_DIR$/Abstraction/Abstraction.iml" />
       <module fileurl="file://$PROJECT_DIR$/Abstraction-class/Abstraction-class.iml" filepath="$PROJECT_DIR$/Abstraction-class/Abstraction-class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String -StringBuilder-StringBuffer/String -StringBuilder-StringBuffer.iml" filepath="$PROJECT_DIR$/String -StringBuilder-StringBuffer/String -StringBuilder-StringBuffer.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/daily-java-practice.iml" filepath="$PROJECT_DIR$/.idea/daily-java-practice.iml" />
       <module fileurl="file://$PROJECT_DIR$/diamond-problem-solution/diamond-problem-solution.iml" filepath="$PROJECT_DIR$/diamond-problem-solution/diamond-problem-solution.iml" />
       <module fileurl="file://$PROJECT_DIR$/immutable-example/immutable-example.iml" filepath="$PROJECT_DIR$/immutable-example/immutable-example.iml" />

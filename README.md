@@ -69,7 +69,7 @@
 //future topics
 - Anonymous class and inner classes
 - Immutable class and String, String Pool, Wrapper classes.
-- String, StringBuilder and StringBuffer
+- String, StringBuilderExample and StringBufferExample
 - Enum and their usage
 - Java IO packages and their different classes
 - Java generics
