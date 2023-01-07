@@ -7,6 +7,8 @@
       <module fileurl="file://$PROJECT_DIR$/String -StringBuilder-StringBuffer/String -StringBuilder-StringBuffer.iml" filepath="$PROJECT_DIR$/String -StringBuilder-StringBuffer/String -StringBuilder-StringBuffer.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/daily-java-practice.iml" filepath="$PROJECT_DIR$/.idea/daily-java-practice.iml" />
       <module fileurl="file://$PROJECT_DIR$/diamond-problem-solution/diamond-problem-solution.iml" filepath="$PROJECT_DIR$/diamond-problem-solution/diamond-problem-solution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/enum-example/enum-example.iml" filepath="$PROJECT_DIR$/enum-example/enum-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exception-example/exception-example.iml" filepath="$PROJECT_DIR$/exception-example/exception-example.iml" />
       <module fileurl="file://$PROJECT_DIR$/immutable-example/immutable-example.iml" filepath="$PROJECT_DIR$/immutable-example/immutable-example.iml" />
       <module fileurl="file://$PROJECT_DIR$/inner-and-anonymous-classes-example/inner-and-anonymous-classes-example.iml" filepath="$PROJECT_DIR$/inner-and-anonymous-classes-example/inner-and-anonymous-classes-example.iml" />
       <module fileurl="file://$PROJECT_DIR$/polymorphism/polymorphism.iml" filepath="$PROJECT_DIR$/polymorphism/polymorphism.iml" />
