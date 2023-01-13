@@ -9,9 +9,14 @@
       <module fileurl="file://$PROJECT_DIR$/diamond-problem-solution/diamond-problem-solution.iml" filepath="$PROJECT_DIR$/diamond-problem-solution/diamond-problem-solution.iml" />
       <module fileurl="file://$PROJECT_DIR$/enum-example/enum-example.iml" filepath="$PROJECT_DIR$/enum-example/enum-example.iml" />
       <module fileurl="file://$PROJECT_DIR$/exception-example/exception-example.iml" filepath="$PROJECT_DIR$/exception-example/exception-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/functional-interface-example/functional-interface-example.iml" filepath="$PROJECT_DIR$/functional-interface-example/functional-interface-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/generics-example/generics-example.iml" filepath="$PROJECT_DIR$/generics-example/generics-example.iml" />
       <module fileurl="file://$PROJECT_DIR$/immutable-example/immutable-example.iml" filepath="$PROJECT_DIR$/immutable-example/immutable-example.iml" />
       <module fileurl="file://$PROJECT_DIR$/inner-and-anonymous-classes-example/inner-and-anonymous-classes-example.iml" filepath="$PROJECT_DIR$/inner-and-anonymous-classes-example/inner-and-anonymous-classes-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lambda-expression-example/lambda-expression-example.iml" filepath="$PROJECT_DIR$/lambda-expression-example/lambda-expression-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loose-coupling-example/loose-coupling-example.iml" filepath="$PROJECT_DIR$/loose-coupling-example/loose-coupling-example.iml" />
       <module fileurl="file://$PROJECT_DIR$/polymorphism/polymorphism.iml" filepath="$PROJECT_DIR$/polymorphism/polymorphism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/streams-example/streams-example.iml" filepath="$PROJECT_DIR$/streams-example/streams-example.iml" />
     </modules>
   </component>
 </project>
