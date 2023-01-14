@@ -11,7 +11,7 @@ class Employee{
         this.salary = salary;
     }
 }
-public class Main {
+public class EmployeeStreamExample {
     public static void main(String[] args) {
         List<Employee>employeeList=new ArrayList<>();
         employeeList.add(new Employee("Anjali",1000));
