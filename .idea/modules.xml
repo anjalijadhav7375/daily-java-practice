@@ -13,6 +13,7 @@
       <module fileurl="file://$PROJECT_DIR$/generics-example/generics-example.iml" filepath="$PROJECT_DIR$/generics-example/generics-example.iml" />
       <module fileurl="file://$PROJECT_DIR$/immutable-example/immutable-example.iml" filepath="$PROJECT_DIR$/immutable-example/immutable-example.iml" />
       <module fileurl="file://$PROJECT_DIR$/inner-and-anonymous-classes-example/inner-and-anonymous-classes-example.iml" filepath="$PROJECT_DIR$/inner-and-anonymous-classes-example/inner-and-anonymous-classes-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-optional-example/java-optional-example.iml" filepath="$PROJECT_DIR$/java-optional-example/java-optional-example.iml" />
       <module fileurl="file://$PROJECT_DIR$/lambda-expression-example/lambda-expression-example.iml" filepath="$PROJECT_DIR$/lambda-expression-example/lambda-expression-example.iml" />
       <module fileurl="file://$PROJECT_DIR$/loose-coupling-example/loose-coupling-example.iml" filepath="$PROJECT_DIR$/loose-coupling-example/loose-coupling-example.iml" />
       <module fileurl="file://$PROJECT_DIR$/polymorphism/polymorphism.iml" filepath="$PROJECT_DIR$/polymorphism/polymorphism.iml" />
