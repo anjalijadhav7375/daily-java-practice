@@ -34,5 +34,9 @@ public class StudentStreamExample {
         Stream<Student> studentStream2 = studentList.stream();
         long numberOfElements = studentStream2.count();//Count -> Terminal Operation which is close the Stream
         System.out.println(numberOfElements);
+
+        Stream<Student> studentStream3 = studentList.stream();
+        Stream<Integer> rollNumberStream  = studentStream3.map(student -> student.rollNumber);
+        System.out.println("Sum of roll number is: " + rollNumberStream.mapToInt(Integer::intValue).sum());
     }
 }
