@@ -19,6 +19,7 @@
       <module fileurl="file://$PROJECT_DIR$/pass-by-value/pass-by-value.iml" filepath="$PROJECT_DIR$/pass-by-value/pass-by-value.iml" />
       <module fileurl="file://$PROJECT_DIR$/polymorphism/polymorphism.iml" filepath="$PROJECT_DIR$/polymorphism/polymorphism.iml" />
       <module fileurl="file://$PROJECT_DIR$/streams-example/streams-example.iml" filepath="$PROJECT_DIR$/streams-example/streams-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wrapper-classes-example/wrapper-classes-example.iml" filepath="$PROJECT_DIR$/wrapper-classes-example/wrapper-classes-example.iml" />
     </modules>
   </component>
 </project>
